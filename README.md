@@ -1,5 +1,5 @@
 # cyb3r_r3source5
-This repo provides multiple blog posts that are Cyber specific, it equips Cyber soldiers to go into war with need-to-know knowledge.
+This repo provides multiple blog posts that are cyber-specific, it equips Cyber soldiers to go into war with need-to-know knowledge.
 
 
 
@@ -19,6 +19,8 @@ In this scenario:
 ⭐ The buyers are other hackers who want to use the ransomware to make money through cyber attacks.
 
 👹 👺 We find ourselves in an era marked by the rise of sophisticated organized cybercrime, akin to a well-coordinated syndicate. Within this intricate network, various key players play recurring roles. Notably, there are initial access brokers who specialize in selling entry points to a company's internal network. This illicit trade facilitates Ransomware Affiliate groups in effortlessly infiltrating a company's private network, enabling them to engage in malicious activities with the primary goal of financial gain, often in the form of Bitcoin (BTC).
+![RaaS](https://github.com/divandenyss/cyb3r_r3source5/assets/156643542/39e82ee9-55b1-4759-b1bf-670a855f7d06)
+
 
 
 
@@ -57,4 +59,7 @@ TeamViewer
 
 ⭐ Use advanced protection against ransomware
 ⭐ Block process creations originating from PsExec and WMI commands. Some organizations may experience compatibility issues with this rule on certain server systems but should deploy it to other systems to prevent hashtag#lateralmovement originating from hashtag#PsExec and hashtag#WMI.
+![MoTW](https://github.com/divandenyss/cyb3r_r3source5/assets/156643542/57227935-c081-4c16-a7eb-cfa68422be2a)
+
+
 
