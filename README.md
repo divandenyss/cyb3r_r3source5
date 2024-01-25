@@ -1,3 +1,5 @@
+
+
 # cyb3r_r3source5
 This repo provides multiple blog posts that are cyber-specific, it equips Cyber soldiers to go into war with need-to-know knowledge. *For educational purposes only and should be used ethically.
 
@@ -258,3 +260,28 @@ Ensure robust network segmentation, clearly separating production networks from 
 Conduct routine on-premises cleanups, particularly within privileged groups, and remove dormant entities holding privileged roles. This proactive approach strengthens overall security posture.
 
 ![lateral-movement](https://github.com/divandenyss/cyb3r_r3source5/assets/156643542/45f3e42b-4f25-4e2b-a286-f2fcf2e04f73)
+
+
+
+
+# 🚨 Incident Response: Not if, but when: In short🚨
+
+💡 At some juncture in your cybersecurity journey, you will inevitably encounter the intense arena of "hands-on-keyboard" activities, engaging in a relentless battle against threat actors fueled by a singular motive - extortion.
+
+💡 Throughout my career, I've been summoned to participate in Incident Response sessions, confronting and neutralizing active hands-on-keyboard operations, most notably those orchestrated by Ransomware Operators. (Based on Tactics, Techniques and Procedures)
+
+💣 💥 Essentially, these are pivotal and should be addressed accordingly:
+
+🌟 Locate the Source of activity: Identify their access point, be it through VPNs, Internet-facing hosts, or a beachhead.
+Break the entry point.
+
+🌟 Credentials are KING: Ascertain the identity or identities under abuse.
+Nuke the identity. For instance, disable accounts and remove logon permissions.
+
+🌟 Combat C2 Beaconing Activity: Pinpoint the outbound communication IP.
+Deny IP on the firewall. Implement deny rules for both inbound and outbound traffic.
+
+💣 💥 The immediate mobilization of the Incident Response team is crucial, to ensure the reduction of the internal blast radius.
+
+![Breach-and-Attack](https://github.com/divandenyss/cyb3r_r3source5/assets/156643542/f7ffcfdc-f399-4679-93dd-e703d1127efe)
+![Attack-Flow](https://github.com/divandenyss/cyb3r_r3source5/assets/156643542/875d52d8-31a1-404e-ab51-423cea6e3b80)
