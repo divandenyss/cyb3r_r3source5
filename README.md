@@ -1,7 +1,7 @@
 
 
 # cyb3r_r3source5
-This repo provides multiple blog posts that are cyber-specific, it equips Cyber soldiers to go into war with need-to-know knowledge. *For educational purposes only and should be used ethically.
+This repo provides multiple blog posts that are cyber-specific, it equips Cyber specialists to go into war with need-to-know knowledge. *For educational purposes only and should be used ethically.
 
 
 
